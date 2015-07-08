@@ -27,6 +27,8 @@ gem 'paperclip'
 
 gem 'dotenv-rails', group: :development
 
+gem 'aws-sdk', '< 2.0'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
