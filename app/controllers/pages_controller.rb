@@ -11,4 +11,3 @@ class PagesController < ApplicationController
   	@books = current_user.books
   end	
 end  
-
